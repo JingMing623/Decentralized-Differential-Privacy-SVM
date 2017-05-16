@@ -1,1 +1,1 @@
-# Decentralized-Differencial-Privacy-SVM
+# Decentralized-Differential-Privacy-SVM
